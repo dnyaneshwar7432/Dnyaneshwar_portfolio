@@ -1,0 +1,53 @@
+[
+ 
+  {
+    "name": "Calculator",
+    "desc": "Using HTML, CSS, and JavaScript provides a simple and intuitive interface for performing basic arithmetic operations like addition, subtraction, multiplication, and division.",
+    "image": "instagrammern",
+    "category": "Basic",
+    "links": {
+      "view": " https://dnyaneshcalculator.netlify.app/",
+      "code": "https://github.com/dnyaneshwar7432/Calculator"
+    }
+  },
+  {
+    "name": "Random Number Game",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "Basic",
+    "links": {
+      "view": " https://dnyaneshrandom-game.netlify.app/",
+      "code": "https://github.com/dnyaneshwar7432/dnyaneshrandom-game"
+    }
+  },
+  {
+    "name": "Dice Game",
+    "desc": "This is a simple, interactive web application where players roll dice and compete to reach a winning score. The game is built using HTML, CSS, and JavaScript.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://dnyaneshwar7432.github.io/Dice_Game/",
+      "code": "https://github.com/dnyaneshwar7432/Dice_Game"
+    }
+  },
+  {
+    "name": "To-Do List ",
+    "desc": "This web app built using JavaScript allows users to manage their tasks efficiently by adding and deleting items on a list. It provides a user-friendly interface where tasks can be categorized and prioritized..",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Text-to-Speech",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  }
+]
